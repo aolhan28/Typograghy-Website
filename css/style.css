@@ -13,13 +13,13 @@ p {
 
 }
 body{
-    background-color: rgb(170, 32, 32);
+    background-color: rgb(155, 148, 148);
     margin: 0;
 }
 
 h1 {
     font-size: 60px;
-    color: burlywood;
+    color: rgb(211, 206, 199);
 }
 
 p{
@@ -41,7 +41,7 @@ p{
 
 .main-container {
     width: 800px;
-    margin: o auto;
+    margin: 0 auto;
     padding: 0 10px;
 
 }
