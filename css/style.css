@@ -12,3 +12,13 @@ p{
     font-size: 18px;
     line-height: 24px;
 }
+
+.homepage-hero {
+    height: 240px;
+    text-align: center;
+    padding-top: 100px;
+}
+
+.main-container {
+
+}
