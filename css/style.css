@@ -36,7 +36,7 @@ p{
     background-color: blueviolet;
     background-image: url("https://images.pexels.com/photos/4451501/pexels-photo-4451501.jpeg");
     background-size: contain;
-    background-attachment: ;
+    background-attachment: fixed;
 }
 
 .main-container {
