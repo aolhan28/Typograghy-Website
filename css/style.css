@@ -1,9 +1,23 @@
+h1 {
+    font-size: 56px;
+    color: rgb(0, 0, 51);
+    text-shadow: 2x 2x rgb(0, 0, 0, 0.2);
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+
+p {
+    font-size: 18px;
+    color: rgb(51, 0, 0);
+    text-shadow: 2x 2x rgb(0, 0, 0, 0.2);
+    font-family: 'Roboto Condensed', sans-serif;
+
+}
 body{
     background-color: rgb(170, 32, 32);
     margin: 0;
 }
 
-h1{
+h1 {
     font size: 60px;
     color: burlywood;
 }
