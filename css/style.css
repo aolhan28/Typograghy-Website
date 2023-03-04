@@ -13,13 +13,13 @@ p {
 
 }
 body{
-    background-color: rgb(233, 225, 225);
+    background-color: rgb(184, 174, 174);
     margin: 0;
 }
 
 h1 {
     font-size: 60px;
-    color: rgb(211, 206, 199);
+    color: rgb(239, 235, 230);
 }
 
 p{
@@ -58,8 +58,4 @@ footer {
 
 .article-left img, .article-right img {
     width: 50%;
-}
-
-.article-left img, .article-right img {
-    height: 50%;
 }
