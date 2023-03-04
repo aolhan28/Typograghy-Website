@@ -54,6 +54,7 @@ footer {
 
 .article-left, .article-right {
     display: flex;
+    justify-content: space-between;
 }
 
 .article-left {
@@ -66,8 +67,4 @@ footer {
 
 .article-left img, .article-right img {
     width: 50%;
-}
-
-.article-left img, .article-right img {
-    margin: 20px 0 40px;
 }
