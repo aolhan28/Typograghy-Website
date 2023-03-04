@@ -52,6 +52,14 @@ footer {
     padding: 20px 10px;
 }
 
+.article-left div {
+    width: 45%;
+}
+
+.article-right div {
+    width: 45%;
+}
+
 .article-left, .article-right {
     display: flex;
     justify-content: space-between;
